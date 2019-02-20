@@ -6,5 +6,5 @@ The data used on this project are not publicly available due to confidentiality 
 
 ### DRMM
 The paper describing Deep Relevance Matching Model is by Guo et al. and is uploaded here for those interested.
-For the implementation of DRMM dynet tool was used and multiple versions were calculated as mention in the experimental results of the pdf.
+For the implementation of DRMM dynet tool was used and multiple versions were calculated as mentioned in the experimental results of the pdf.
 But only one version is uploaded containing lines needed to be added to construct variations of the main model in comments.
