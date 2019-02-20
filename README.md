@@ -17,4 +17,4 @@ python 3
 
 dynet
 
-cuda
+
