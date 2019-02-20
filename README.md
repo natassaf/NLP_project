@@ -1,2 +1,10 @@
-# NLP_project
-This repository contains a project done as capstone project during my master. It is a recommendation system which given information on a  candidate uses a deep learning model called Deep Relevance Matching Model to suggest the most relevant jobs from a database of job announcements. In order to use the deep learning model we first retrieve the top 100 most relevant jobs using Elasticsearch engine. The way that the data are indexed within Elasticsearch is not demonstrated here but the data can be ingested using logstash. Due to confidentiality agreement it is not possible to  upload the data but you can find a detailed description on the the capstone project pdf. Finally I have uploaded here the original paper describing Deep Relevance Matching Model by Guo et al. for those interested in it.
+## NLP_project
+This repository contains a project done as capstone project during my master. It is a recommendation system which given information on a  candidate uses a deep learning model called Deep Relevance Matching Model to suggest the most relevant jobs from a database of job announcements. In order to use the deep learning model we first retrieve the top 100 most relevant jobs using Elasticsearch engine. The way that the data are indexed within Elasticsearch is not demonstrated here but the data can be ingested using logstash. 
+
+## Data
+The data used on this project are not publicly available due to confidentiality agreement. It is possible though to find a detailed description on the capstone project pdf. 
+
+## DRMM
+The paper describing Deep Relevance Matching Model is by Guo et al. and is uploaded here for those interested.
+For the implementation of DRMM dynet tool was used and multiple versions were calculated as mention in the experimental results of the pdf.
+But only one version is uploaded containing lines needed to be added to construct variations of the main model in comments.
