@@ -9,8 +9,8 @@ The paper describing Deep Relevance Matching Model by Guo et al. can be found in
 
 https://dl.acm.org/citation.cfm?id=2983769
 
-For the implementation of DRMM dynet tool was used and multiple versions were calculated as mentioned in the experimental results of the pdf.
-But only one version is uploaded containing lines needed to be added to construct variations of the main model in comments.
+For the implementation of DRMM dynetframework was used and multiple versions were calculated as mentioned in the experimental results of the pdf.
+But only one version is uploaded containing the model based on which other variations can be produced.
 
 ### Dependencies
 python 3
